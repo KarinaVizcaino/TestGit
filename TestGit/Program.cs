@@ -11,6 +11,7 @@ namespace TestGit
         static void Main(string[] args)
         {
             int id;
+            string nombre;
         }
     }
 }
